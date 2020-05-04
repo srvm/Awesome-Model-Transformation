@@ -14,6 +14,7 @@ Interesting papers and articles on model compression in general and pruning in p
 ## Fast Pruning Methods
 
 * [SNIP: Single-shot Network Pruning based on Connection Sensitivity](https://arxiv.org/abs/1810.02340)
+* [Drawing Early-Bird Tickets: Toward More Efficient Training of Deep Networks](https://iclr.cc/virtual_2020/poster_BJxsrgStvr.html)
 * [Single-shot Channel Pruning Based on Alternating Direction Method of Multipliers](https://arxiv.org/abs/1902.06382)
 * [Fast Model Compression](http://graduatestudents.ucmerced.edu/azharmagambetov/files/abstracts/baylearn18a.pdf)
 * [AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
