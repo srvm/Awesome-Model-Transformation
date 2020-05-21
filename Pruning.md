@@ -20,11 +20,14 @@ Interesting papers and articles on model compression in general and pruning in p
 * [AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
 * [BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget](https://arxiv.org/abs/1906.04113)
 
-## Importance Estimation Algorithms
+## Work on Importance Estimation
 
 * [Importance Estimation for Neural Network Pruning](http://openaccess.thecvf.com/content_CVPR_2019/html/Molchanov_Importance_Estimation_for_Neural_Network_Pruning_CVPR_2019_paper.html)
+* [SiPPing Neural Networks: Sensitivity-informed Provable Pruning of Neural Networks](https://arxiv.org/abs/1910.05422)
+* [Provable Filter Pruning for Efficient Neural Networks](https://arxiv.org/abs/1911.07412)
 
 ## Software Frameworks
 
 * [Condensa](https://github.com/NVlabs/condensa)
 * [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization)
+* [Provable Pruning](https://github.com/lucaslie/provable_pruning)
